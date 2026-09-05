@@ -1,0 +1,6 @@
+{
+  "name": "Text to Image & Video 3D Studio",
+  "description": "Transform text into HD images and animated videos with interactive 3D backgrounds, advanced animation and camera controls, and 4K upscaling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
